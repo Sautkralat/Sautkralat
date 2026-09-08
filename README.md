@@ -30,14 +30,13 @@ Ich bin Humanbiologe und Journalist, und mache eine Weiterbildung zum Data Engin
 - Netzwerke
 - Bash-Skripte
 
-<!--
 ## Projekte
 
-### [Name meines Projekts](LINK-ZUM-REPOSITORY)
+### [webwaechter](https://github.com/Sautkralat/webwaechter)
 
-Kurze Erklärung: Was macht das Projekt und was hast du dabei gelernt?
+Ein simples Bash-Skript, das Backups und Log-Einträge einer Web-Seite erstellt. Eine gute Übung, um den Syntax von Terminal-Befehlen besser zu verstehen.
 
-## Kontakt
+<!--## Kontakt
 
 - [Portfolio](LINK)
 - [LinkedIn](LINK)
