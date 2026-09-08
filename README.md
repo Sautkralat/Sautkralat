@@ -20,8 +20,8 @@ Ich bin Humanbiologe und Journalist, und mache eine Weiterbildung zum Data Engin
 ## Über mich
 
 - 🌱 Derzeit lerne ich die Verwendung von Git, Github und Bash
-- 🧠Ich arbeite an kleinen Projekten
-- 🔭Mein Ziel ist eine Tätigkeit zu finden, die Humanbiologie und Data Engineering kombiniert
+- 🧠 Ich arbeite an kleinen Projekten
+- 🔭 Mein Ziel ist eine Tätigkeit zu finden, die Humanbiologie und Data Engineering kombiniert
 
 ## Technologien
 
