@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hallo, ich bin Rufus 👋
 
-Ich bin Humanbiologe und Journalist, und mache eine Weiterbildung zum Data Engineer 
+Ich bin Humanbiologe und Journalist - und bald auch Data Engineer 
 
 ## Über mich
 
-- 🌱 Derzeit lerne ich die Verwendung von Git, Github und Bash
+- 🌱 Derzeit mache ich eine einjährige Vollzeitausbildung in Data Engineering. Im Moment lerne ich Python, HTML, CSS, Git, Github und Bash
 - 🧠 Ich arbeite an kleinen Projekten
 - 🔭 Mein Ziel ist eine Tätigkeit zu finden, die Humanbiologie und Data Engineering kombiniert
 
