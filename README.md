@@ -19,18 +19,24 @@ Ich bin Humanbiologe und Journalist - und bald auch Data Engineer
 
 ## Über mich
 
-- 🌱 Derzeit mache ich eine einjährige Vollzeitausbildung in Data Engineering. Im Moment lerne ich Python, HTML, CSS, Git, Github und Bash
+- 🌱 Derzeit mache ich eine einjährige Vollzeitausbildung in Data Engineering
 - 🧠 Ich arbeite an kleinen Projekten
 - 🔭 Mein Ziel ist eine Tätigkeit zu finden, die Humanbiologie und Data Engineering kombiniert
 
 ## Technologien
 
+- Python
+- HTML, CSS
 - Git und GitHub
 - HTTP-Server
 - Netzwerke
 - Bash-Skripte
 
 ## Projekte
+
+### [Vögel in unserem Garten](https://sautkralat.github.io/gartenvoegel/)
+
+Eine Webseite über Gartenvögel, Nistkästen und Vogelstimmen-Erkennung
 
 ### [webwaechter](https://github.com/Sautkralat/webwaechter)
 
